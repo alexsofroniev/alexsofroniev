@@ -96,7 +96,7 @@
 
 #
 
-<summary>
+<!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
@@ -106,7 +106,7 @@
 </a>
 
 <br>
-<br>
+<br> -->
 
 <!-- START_SECTION:waka
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-697670%20lines%20of%20code-blue)
@@ -189,9 +189,9 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2021
+ Last Updated on 23/06/2021-->
 <!--END_SECTION:waka-->
--->
+
 
 <!-- <p align="center">
   <a>
